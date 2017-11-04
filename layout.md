@@ -7,6 +7,8 @@ The_complexity_of_ea.html
 sectionApplying_Witt.html
 sectionTwo_Sources_o.html
 sectionA_Case_Study_.html
+jdenusp7c68.tex
+3jpc6367p5o.html
 figures/image2
 emphConceptual_metap.html
 sectionConclusionlab.html

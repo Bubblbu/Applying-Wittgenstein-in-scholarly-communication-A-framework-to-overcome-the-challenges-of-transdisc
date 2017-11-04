@@ -21,4 +21,3 @@ ldp5of55l48.tex
 gkg9lji4q88.html
 sectionConclusionlab.html
 sectionDeclaration_o.html
-sectionReferenceslab.html

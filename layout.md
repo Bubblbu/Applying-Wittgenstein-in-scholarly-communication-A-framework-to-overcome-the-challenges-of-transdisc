@@ -11,7 +11,6 @@ sectionTwo_Sources_o.html
 5nbvlqe3fvg.tex
 sectionA_Case_Study_.html
 jdenusp7c68.tex
-3jpc6367p5o.html
 pn8758gl8mg.tex
 figures/image2
 emphConceptual_metap.html

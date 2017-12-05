@@ -18,7 +18,6 @@ figures/image2
 emphConceptual_metap.html
 ldp5of55l48.tex
 gkg9lji4q88.html
-sectionConclusionlab.html
 sectionDeclaration_o.html
 rmdq71e643g.tex
 8oh9udo9o9.html
